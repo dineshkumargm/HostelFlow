@@ -5,8 +5,8 @@
 ---
 
 ## 📸 Demo Preview
+![WhatsApp Image 2025-07-13 at 22 08 55_5a6dcb40](https://github.com/user-attachments/assets/48f089e1-b64f-4f12-9112-5ac992bba046)
 
-![Dashboard Preview](/mnt/data/88a4545c-3546-49b1-ab21-6bc3c159d68f.jpg)
 
 ---
 
